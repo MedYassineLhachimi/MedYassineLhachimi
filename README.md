@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Mohamed Yassine Lhachimi ;)
 
-<!--
-**MedYassineLhachimi/MedYassineLhachimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer | 🛡️ Aspiring Penetration Tester
 
-Here are some ideas to get you started:
+I am a Computer Science student currently focused on building robust web applications while deep-diving into the world of offensive security. I believe that understanding how to build (and break) software is the key to becoming a great security professional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Development Stack
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Laravel (PHP)
+- **Database:** MySQL, Oracle Database
+- **Environment:** Windows, Linux (Kali), Bash Scripting
+
+### 🛡️ Cybersecurity Journey (Self-Taught)
+I'm currently focused on mastering the fundamentals of exploitation and security concepts through hands-on practice:
+- **Binary Exploitation:** Learning the "how" and "why" via **pwn.college** and **pwnable.kr**.
+- **Web Pentesting:** Applying my Laravel/PHP knowledge to understand server-side vulnerabilities on **HackTheBox**.
+- **System Defense:** Experimenting with Linux system administration and hardening.
+
+### 📊 Current Goals
+- 🛠️ Developing secure web projects with Laravel and React.
+- 🚩 Increasing my rank on HackTheBox and solving more pwnable challenges.
+- 📖 Documenting my learning process and CTF write-ups.
+
+---
+
+### 🔭 Connect with me
+- **LinkedIn:** www.linkedin.com/in/mohamed-yassine-lhachimi-42647b3a7
+
+*"The more I learn about how to build, the more I realize how much there is to break."*
