@@ -26,6 +26,6 @@ I'm currently focused on mastering the fundamentals of exploitation and security
 ---
 
 ### 🔭 Connect with me
-- **LinkedIn:** www.linkedin.com/in/mohamed-yassine-lhachimi-42647b3a7
+- **LinkedIn:** [Mohamed Yassine Lhachimi](www.linkedin.com/in/mohamed-yassine-lhachimi-42647b3a7)
 
 *"The more I learn about how to build, the more I realize how much there is to break."*
